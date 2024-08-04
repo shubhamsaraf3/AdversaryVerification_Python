@@ -1,0 +1,7 @@
+A-Z / a-z lookalike
+dictionary for a-z & A-Z as key, cyrilic lookalike as value
+unicode for cyrilic (homograph attack)
+replace input english with cyrilic
+
+
+The similarity function in spaCy uses word vectors or word embeddings, which are multi-dimensional meaning representations of a word. These word vectors are generated using algorithms like Word2Vec or GloVe, and they are used to compare the semantic meaning of words. The similarity score is calculated as the cosine similarity between the word vectors, which is a measure of how close two words are in the vector space.
